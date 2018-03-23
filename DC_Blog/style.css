@@ -22,11 +22,12 @@ header {
 	font-size: 35px;
 	margin-left: 3px;
     color: #5E5E5E;
+
 }
 
 .header-right {
 	text-align: right;
-    padding-top: 20px;   
+    padding-top: 20px;  
 }
 
 .header-right a {
